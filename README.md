@@ -1,7 +1,7 @@
 # Smile-oji
-Using deep learning to detect smiles.
+Using deep learning to detect smiling faces.
 ## Introduction
-To detect smiles on pre-recorded video or live cam feed. Using Keras and OpenCV<br>
+To detect smiling faces on pre-recorded video or live cam feed. Using Keras and OpenCV<br>
 ### Requirements
 -> numpy
 -> matplotlib
