@@ -37,7 +37,7 @@ while True:
 
     # resize the frame, convert it to grayscale, and then clone the
     # orignal frame so we draw on it later in the program
-    frame = imutils.resize(frame, width=700)
+    frame = imutils.resize(frame, width=900)
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
     frameClone = frame.copy()
 
